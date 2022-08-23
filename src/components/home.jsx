@@ -1,12 +1,17 @@
 import React from "react";
+import mypic from "../assests/mypic.jpg";
 
 export function Home() {
   return (
-    <div>
-      <h1>Home</h1>
-      <p>Hey There !</p>
-      <h1>I am Aravinthan</h1>
-      <p>Frontend Developer</p>
+    <div className="homeContainer">
+      <div className="rightContainer">
+        <span className="wordHello">Hello!</span>
+        <span className="wordName">I am Aravinthan</span>
+        <span className="wordRole">Frontend Developer</span>
+      </div>
+      <div className="leftContainer">
+        <img src={mypic} height={200} />
+      </div>
     </div>
   );
 }
