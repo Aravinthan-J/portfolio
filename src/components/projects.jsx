@@ -13,60 +13,11 @@ export function Project() {
         <li>Searching App</li>
         <li>Basic Chat App using WebScoket</li>
       </ul> */}
-      <div className="projectsList">
-        Lorem ipsum Exercitation culpa qui dolor consequat exercitation fugiat
-        laborum ex ea eiusmod ad do aliqua occaecat nisi ad irure sunt id
-        pariatur Duis laboris amet exercitation veniam labore consectetur ea id
-        quis eiusmod.Lorem ipsum Exercitation culpa qui dolor consequat
-        exercitation fugiat laborum ex ea eiusmod ad do aliqua occaecat nisi ad
-        irure sunt id pariatur Duis laboris amet exercitation veniam labore
-        consectetur ea id quis eiusmod.
-      </div>
-      <div className="projectsList">
-        Lorem ipsum Exercitation culpa qui dolor consequat exercitation fugiat
-        laborum ex ea eiusmod ad do aliqua occaecat nisi ad irure sunt id
-        pariatur Duis laboris amet exercitation veniam labore consectetur ea id
-        quis eiusmod.Lorem ipsum Exercitation culpa qui dolor consequat
-        exercitation fugiat laborum ex ea eiusmod ad do aliqua occaecat nisi ad
-        irure sunt id pariatur Duis laboris amet exercitation veniam labore
-        consectetur ea id quis eiusmod.
-      </div>
-      <div className="projectsList">
-        Lorem ipsum Exercitation culpa qui dolor consequat exercitation fugiat
-        laborum ex ea eiusmod ad do aliqua occaecat nisi ad irure sunt id
-        pariatur Duis laboris amet exercitation veniam labore consectetur ea id
-        quis eiusmod.Lorem ipsum Exercitation culpa qui dolor consequat
-        exercitation fugiat laborum ex ea eiusmod ad do aliqua occaecat nisi ad
-        irure sunt id pariatur Duis laboris amet exercitation veniam labore
-        consectetur ea id quis eiusmod.
-      </div>
-      <div className="projectsList">
-        Lorem ipsum Exercitation culpa qui dolor consequat exercitation fugiat
-        laborum ex ea eiusmod ad do aliqua occaecat nisi ad irure sunt id
-        pariatur Duis laboris amet exercitation veniam labore consectetur ea id
-        quis eiusmod.Lorem ipsum Exercitation culpa qui dolor consequat
-        exercitation fugiat laborum ex ea eiusmod ad do aliqua occaecat nisi ad
-        irure sunt id pariatur Duis laboris amet exercitation veniam labore
-        consectetur ea id quis eiusmod.
-      </div>
-      <div className="projectsList">
-        Lorem ipsum Exercitation culpa qui dolor consequat exercitation fugiat
-        laborum ex ea eiusmod ad do aliqua occaecat nisi ad irure sunt id
-        pariatur Duis laboris amet exercitation veniam labore consectetur ea id
-        quis eiusmod.Lorem ipsum Exercitation culpa qui dolor consequat
-        exercitation fugiat laborum ex ea eiusmod ad do aliqua occaecat nisi ad
-        irure sunt id pariatur Duis laboris amet exercitation veniam labore
-        consectetur ea id quis eiusmod.
-      </div>
-      <div className="projectsList">
-        Lorem ipsum Exercitation culpa qui dolor consequat exercitation fugiat
-        laborum ex ea eiusmod ad do aliqua occaecat nisi ad irure sunt id
-        pariatur Duis laboris amet exercitation veniam labore consectetur ea id
-        quis eiusmod.Lorem ipsum Exercitation culpa qui dolor consequat
-        exercitation fugiat laborum ex ea eiusmod ad do aliqua occaecat nisi ad
-        irure sunt id pariatur Duis laboris amet exercitation veniam labore
-        consectetur ea id quis eiusmod.
-      </div>
+      <div className="projectsList">Quiz App</div>
+      <div className="projectsList">Weather App</div>
+      <div className="projectsList">Simple Website</div>
+      <div className="projectsList">Corona Rate App</div>
+      <div className="projectsList">Basic Chat App using WebScoket</div>
     </div>
   );
 }

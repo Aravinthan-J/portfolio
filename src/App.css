@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: radial-gradient(hsl(206deg 79% 18% / 91%), hsl(206deg 79% 12%));
+}
+
+.App {
+  height: 100vmin;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
