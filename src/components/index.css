@@ -178,4 +178,5 @@ li {
   display: grid;
   justify-items: center;
   gap: 18px;
+  margin-top: 24px;
 }
